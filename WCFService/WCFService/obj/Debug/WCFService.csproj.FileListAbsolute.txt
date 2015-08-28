@@ -1,0 +1,14 @@
+D:\Code\WCFService\WCFService\bin\WCFService.dll
+D:\Code\WCFService\WCFService\bin\WCFService.pdb
+D:\Code\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+D:\Code\WCFService\WCFService\obj\Debug\WCFService.dll
+D:\Code\WCFService\WCFService\obj\Debug\WCFService.pdb
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.Unity.dll
+D:\Code\WCFService\WCFService\bin\Microsoft.Practices.Unity.Interception.dll
